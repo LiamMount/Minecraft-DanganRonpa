@@ -1,0 +1,1 @@
+One of these files is more up-to-date than the other, but due to uninstalling Minecraft I couldn't verify which, so I included both.
